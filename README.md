@@ -11,6 +11,7 @@ Using these models, prediction is done for the tweets, whether the tweet is nega
 Then, all evaluating parameters and confusion matrix obtained.
 # Result achieved
 The sentimental analysis of twitter has been done using the model.
+
 By Naive Bayes -:
 Accuracy = 0.9432,
 Precision = 0.6196,
